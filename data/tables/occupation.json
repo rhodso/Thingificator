@@ -1,0 +1,42 @@
+[
+	{
+		"option": "Blacksmith",
+		"weight": 3
+	},
+	{
+		"option": "Tavern Keeper",
+		"weight": 3
+	},
+	{
+		"option": "Farmer",
+		"weight": 8
+	},
+	{
+		"option": "Merchant",
+		"weight": 5
+	},
+	{
+		"option": "Guard",
+		"weight": 5
+	},
+	{
+		"option": "Carpenter",
+		"weight": 4
+	},
+	{
+		"option": "Fisher",
+		"weight": 4
+	},
+	{
+		"option": "Hunter",
+		"weight": 3
+	},
+	{
+		"option": "Priest",
+		"weight": 2
+	},
+	{
+		"option": "Scribe",
+		"weight": 2
+	}
+]

@@ -1,0 +1,1737 @@
+[
+	{
+		"race": "Aarakocra",
+		"gender": "Male",
+		"options": [],
+		"additive": [
+			{
+				"race": "Aarakocra",
+				"gender": "Non-binary"
+			}
+		]
+	},
+	{
+		"race": "Aarakocra",
+		"gender": "Female",
+		"options": [],
+		"additive": [
+			{
+				"race": "Aarakocra",
+				"gender": "Non-binary"
+			}
+		]
+	},
+	{
+		"race": "Aarakocra",
+		"gender": "Non-binary",
+		"options": [
+			"Aera",
+			"Aial",
+			"Aur",
+			"Deekek",
+			"Errk",
+			"Heehk",
+			"Ikki",
+			"Kleeck",
+			"Oorr",
+			"Ouss",
+			"Quaf",
+			"Quierk",
+			"Salleek",
+			"Urreek",
+			"Zeed"
+		],
+		"additive": []
+	},
+	{
+		"race": "Aasimar",
+		"gender": "Female",
+		"options": [],
+		"additive": [
+			{
+				"race": "Human",
+				"gender": "Female"
+			}
+		]
+	},
+	{
+		"race": "Aasimar",
+		"gender": "Male",
+		"options": [],
+		"additive": [
+			{
+				"race": "Human",
+				"gender": "Male"
+			}
+		]
+	},
+	{
+		"race": "Aasimar",
+		"gender": "Male",
+		"options": [],
+		"additive": [
+			{
+				"race": "Human",
+				"gender": "Non-binary"
+			}
+		]
+	},
+	{
+		"race": "Centaur",
+		"gender": "Female",
+		"options": [
+			"Daiva",
+			"Dunja",
+			"Elnaya",
+			"Galisnya",
+			"Irinya",
+			"Kotyali",
+			"Lalya",
+			"Litisia",
+			"Madya",
+			"Mira",
+			"Nedja",
+			"Nikya",
+			"Ostani",
+			"Pinya",
+			"Rada",
+			"Raisya",
+			"Stasolya",
+			"Tatna",
+			"Zhendoya",
+			"Zoria"
+		],
+		"additive": []
+	},
+	{
+		"race": "Changeling",
+		"gender": "Female",
+		"options": [],
+		"additive": [
+			{
+				"race": "Changeling",
+				"gender": "Non-binary"
+			}
+		]
+	},
+	{
+		"race": "Changeling",
+		"gender": "Male",
+		"options": [],
+		"additive": [
+			{
+				"race": "Changeling",
+				"gender": "Non-binary"
+			}
+		]
+	},
+	{
+		"race": "Changeling",
+		"gender": "Non-binary",
+		"options": [
+			"Aunn",
+			"Bin",
+			"Cas",
+			"Dox",
+			"Fie",
+			"Hars",
+			"Jin",
+			"Lam",
+			"Mas",
+			"Nix",
+			"Ot",
+			"Paik",
+			"Ruz",
+			"Sim",
+			"Toox",
+			"Vil",
+			"Yug"
+		],
+		"additive": []
+	},
+	{
+		"race": "Centaur",
+		"gender": "Male",
+		"options": [
+			"Bonmod",
+			"Boruvo",
+			"Chodi",
+			"Drozan",
+			"Kozim",
+			"Milosh",
+			"Ninos",
+			"Oleksi",
+			"Orval",
+			"Radovas",
+			"Radom",
+			"Rostis",
+			"Svetyos",
+			"Tomis",
+			"Trijiro",
+			"Volim",
+			"Vlodim",
+			"Yarog"
+		],
+		"additive": []
+	},
+	{
+		"race": "Centaur",
+		"gender": "Non-binary",
+		"options": [],
+		"additive": [
+			{
+				"race": "Centaur",
+				"gender": "Female"
+			},
+			{
+				"race": "Centaur",
+				"gender": "Male"
+			}
+		]
+	},
+	{
+		"race": "Aasimar",
+		"gender": "Non-binary",
+		"options": [],
+		"additive": [
+			{
+				"race": "Aasimar",
+				"gender": "Female"
+			},
+			{
+				"race": "Aasimar",
+				"gender": "Male"
+			}
+		]
+	},
+	{
+		"race": "Firbolg",
+		"gender": "Female",
+		"options": [],
+		"additive": [
+			{
+				"race": "Firbolg",
+				"gender": "Non-binary"
+			}
+		]
+	},
+	{
+		"race": "Firbolg",
+		"gender": "Male",
+		"options": [],
+		"additive": [
+			{
+				"race": "Firbolg",
+				"gender": "Non-binary"
+			}
+		]
+	},
+	{
+		"race": "Firbolg",
+		"gender": "Non-binary",
+		"options": [],
+		"additive": [
+			{
+				"race": "Elf",
+				"gender": "Non-binary"
+			}
+		]
+	},
+	{
+		"race": "Satyr",
+		"gender": "Female",
+		"options": [
+			"Aliki",
+			"Avra",
+			"Chara",
+			"Dafni",
+			"Eirini",
+			"Elpida",
+			"Irini",
+			"Kaiti",
+			"Lia",
+			"Niki",
+			"Tasia",
+			"Xeni",
+			"Yanna",
+			"Zoi"
+		],
+		"additive": []
+	},
+	{
+		"race": "Satyr",
+		"gender": "Male",
+		"options": [
+			"Alekos",
+			"Dimi",
+			"Filippos",
+			"Ilias",
+			"Kyriakos",
+			"Neofytos",
+			"Omiros",
+			"Pantelis",
+			"Spyro",
+			"Takis",
+			"Zenon"
+		],
+		"additive": []
+	},
+	{
+		"race": "Satyr",
+		"gender": "Non-binary",
+		"options": [
+			"Bounder",
+			"Bristlechin",
+			"Clip-Clop",
+			"Dappleback",
+			"Hopper",
+			"Nobblehorn",
+			"Orangebeard",
+			"Quickfoot",
+			"Scrufflebutt",
+			"Sunbeam",
+			"Skiphoof",
+			"Twinkle-Eyes"
+		],
+		"additive": [
+			{
+				"race": "Satyr",
+				"gender": "Female"
+			},
+			{
+				"race": "Satyr",
+				"gender": "Male"
+			}
+		]
+	},
+	{
+		"race": "Lizardfolk",
+		"gender": "Male",
+		"options": [],
+		"additive": [
+			{
+				"race": "Lizardfolk",
+				"gender": "Non-binary"
+			}
+		]
+	},
+	{
+		"race": "Lizardfolk",
+		"gender": "Female",
+		"options": [],
+		"additive": [
+			{
+				"race": "Lizardfolk",
+				"gender": "Non-binary"
+			}
+		]
+	},
+	{
+		"race": "Lizardfolk",
+		"gender": "Non-binary",
+		"options": [
+			"Achuak",
+			"Aryte",
+			"Baeshra",
+			"Darastrix",
+			"Garurt",
+			"Jhank",
+			"KLepesk",
+			"Kethend",
+			"Korth",
+			"Kosj",
+			"Kothar",
+			"Litrix",
+			"Mirik",
+			"Throden",
+			"Usk",
+			"Valignat",
+			"Vargach",
+			"Vutha",
+			"Vyth"
+		],
+		"additive": []
+	},
+	{
+		"race": "Githyanki",
+		"gender": "Male",
+		"options": [
+			"Elirdain",
+			"Gaath",
+			"Ja'adoc",
+			"Kar'i'nas",
+			"Lykus",
+			"Quith",
+			"Ris'a'an",
+			"Tropos",
+			"Viran",
+			"Xamados"
+		],
+		"additive": []
+	},
+	{
+		"race": "Githyanki",
+		"gender": "Female",
+		"options": [
+			"Aaryl",
+			"B'noor",
+			"Genelzi'ir",
+			"Jen'lig",
+			"Pah'zel",
+			"Quorstyl",
+			"Sirruth",
+			"Vaira",
+			"Yessune",
+			"Zar'ryth"
+		]
+	},
+	{
+		"race": "Githyanki",
+		"gender": "Non-binary",
+		"options": [],
+		"additive": [
+			{
+				"race": "Githyanki",
+				"gender": "Male"
+			},
+			{
+				"race": "Githyanki",
+				"gender": "Female"
+			}
+		]
+	},
+	{
+		"race": "Githzerai",
+		"gender": "Male",
+		"options": [
+			"Dak",
+			"Duuth",
+			"Ferzth",
+			"Greth",
+			"Hurm",
+			"Kalla",
+			"Muurg",
+			"Nurm",
+			"Shrakk",
+			"Xorm"
+		],
+		"additive": []
+	},
+	{
+		"race": "Githzerai",
+		"gender": "Female",
+		"options": [
+			"Adaka",
+			"Adeya",
+			"Ella",
+			"Ezhelya",
+			"Immilzin",
+			"Izera",
+			"Janara",
+			"Loraya",
+			"Uweya",
+			"Vithka"
+		],
+		"additive": []
+	},
+	{
+		"race": "Githzerai",
+		"gender": "Non-binary",
+		"options": [],
+		"additive": [
+			{
+				"race": "Githzerai",
+				"gender": "Male"
+			},
+			{
+				"race": "Githzerai",
+				"gender": "Female"
+			}
+		]
+	},
+	{
+		"race": "Dragonborn",
+		"gender": "Male",
+		"options": [
+			"Adrex",
+			"Arjhan",
+			"Azzakh",
+			"Balasar",
+			"Baradad",
+			"Bharash",
+			"Bidreked",
+			"Dadalan",
+			"Dazzazn",
+			"Direcris",
+			"Donaar",
+			"Fax",
+			"Gargax",
+			"Ghesh",
+			"Gorbundus",
+			"Greethen",
+			"Heskan",
+			"Hirrathak",
+			"Ildrex",
+			"Kaladan",
+			"Kerkad",
+			"Kiirith",
+			"Kriv",
+			"Maagog",
+			"Medrash",
+			"Mehen",
+			"Mozikth",
+			"Mreksh",
+			"Mugrunden",
+			"Nadarr",
+			"Nithther",
+			"Norkruuth",
+			"Nykkan",
+			"Pandjed",
+			"Patrin",
+			"Pijjirik",
+			"Quarethon",
+			"Rathkran",
+			"Rhogar",
+			"Rivaan",
+			"Sethrekar",
+			"Shamash",
+			"Shedinn",
+			"Srorthen",
+			"Tarhun",
+			"Torinn",
+			"Trynnicus",
+			"Valorean",
+			"Vrondiss",
+			"Zedaar"
+		],
+		"additive": []
+	},
+	{
+		"race": "Dragonborn",
+		"gender": "Female",
+		"options": [
+			"Akra",
+			"Aasathra",
+			"Antrara",
+			"Arava",
+			"Biri",
+			"Blendaeth",
+			"Burana",
+			"Chassath",
+			"Daar",
+			"Dentratha",
+			"Doudra",
+			"Driindar",
+			"Eggren",
+			"Farideh",
+			"Findex",
+			"Furrele",
+			"Gesrethe",
+			"Gilkass",
+			"Harann",
+			"Havilar",
+			"Hethress",
+			"Hillanot",
+			"Jaxi",
+			"Jezean",
+			"Jheri",
+			"Kadana",
+			"Kava",
+			"Korinn",
+			"Megren",
+			"Mijira",
+			"Mishann",
+			"Nala",
+			"Nuthra",
+			"Perra",
+			"Pogranix",
+			"Pyxrin",
+			"Quespa",
+			"Raiann",
+			"Rezena",
+			"Ruloth",
+			"Saphara",
+			"Savaran",
+			"Sora",
+			"Surina",
+			"Synthrin",
+			"Tatyan",
+			"Thava",
+			"Uadjit",
+			"Vezera",
+			"Zykroff"
+		],
+		"additive": []
+	},
+	{
+		"race": "Dragonborn",
+		"gender": "Non-binary",
+		"options": [],
+		"additive": [
+			{
+				"race": "Dragonborn",
+				"gender": "Male"
+			},
+			{
+				"race": "Dragonborn",
+				"gender": "Female"
+			}
+		]
+	},
+	{
+		"race": "Dwarf",
+		"gender": "Female",
+		"options": [
+			"Anbera",
+			"Artin",
+			"Audhild",
+			"Balifra",
+			"Barbena",
+			"Bardryn",
+			"Bolhild",
+			"Dagnal",
+			"Dariff",
+			"Delre",
+			"Diesa",
+			"Eldeth",
+			"Eridred",
+			"Falkrunn",
+			"Fallthra",
+			"Finellen",
+			"Gillydd",
+			"Gunnloda",
+			"Gurdis",
+			"Helgret",
+			"Helja",
+			"Hlin",
+			"Ilde",
+			"Jarana",
+			"Kathra",
+			"Kilia",
+			"Kristryd",
+			"Liftrasa",
+			"Marastyr",
+			"Mardred",
+			"Morana",
+			"Nalaed",
+			"Nora",
+			"Nurkara",
+			"Oriff",
+			"Ovina",
+			"Riswynn",
+			"Sannl",
+			"Therlin",
+			"Thodris",
+			"Torbera",
+			"Tordrid",
+			"Torgga",
+			"Urshar",
+			"Valida",
+			"Vistra",
+			"Vonana",
+			"Werydd",
+			"Whurdred",
+			"Yurgunn"
+		]
+	},
+	{
+		"race": "Dwarf",
+		"gender": "Male",
+		"options": [
+			"Adrik",
+			"Alberich",
+			"Baern",
+			"Barendd",
+			"Beloril",
+			"Brottor",
+			"Dain",
+			"Dalgal",
+			"Darrak",
+			"Delg",
+			"Duergath",
+			"Dworic",
+			"Eberk",
+			"Einkil",
+			"Elaim",
+			"Erias",
+			"Fallond",
+			"Fargrim",
+			"Gardain",
+			"Gilthur",
+			"Gimgen",
+			"Gimurt",
+			"Harbek",
+			"Kildrak",
+			"Kilvar",
+			"Morgran",
+			"Morkral",
+			"Nalral",
+			"Nordak",
+			"Nuraval",
+			"Oloric",
+			"Olunt",
+			"Orsik",
+			"Oskar",
+			"Rangrim",
+			"Reirak",
+			"Rurik",
+			"Taklinn",
+			"Thoradin",
+			"Thorin",
+			"Thradal",
+			"Tordek",
+			"Traubon",
+			"Travok",
+			"Ulfgar",
+			"Uraim",
+			"Veit",
+			"Vonbin",
+			"Vondal",
+			"Whurbin"
+		]
+	},
+	{
+		"race": "Dwarf",
+		"gender": "Non-binary",
+		"options": [],
+		"additive": [
+			{
+				"race": "Dwarf",
+				"gender": "Male"
+			},
+			{
+				"race": "Dwarf",
+				"gender": "Female"
+			}
+		]
+	},
+	{
+		"race": "Elf",
+		"gender": "Female",
+		"options": [
+			"Adrie",
+			"Ahinar",
+			"Althaea",
+			"Anastrianna",
+			"Andraste",
+			"Antinua",
+			"Arara",
+			"Baelitae",
+			"Bethrynna",
+			"Birel",
+			"Caelynn",
+			"Chaedi",
+			"Claira",
+			"Dara",
+			"Drusilia",
+			"Elama",
+			"Enna",
+			"Faral",
+			"Felosial",
+			"Hatae",
+			"Ielenia",
+			"Ilanis",
+			"Irann",
+			"Jarsali",
+			"Jelenneth",
+			"Keyleth",
+			"Leshanna",
+			"Lia",
+			"Maiathah",
+			"Malquis",
+			"Meriele",
+			"Mialee",
+			"Myathethil",
+			"Naivara",
+			"Quelenna",
+			"Quillathe",
+			"Ridaro",
+			"Sariel",
+			"Shanairla",
+			"Shava",
+			"Silaqui",
+			"Sumnes",
+			"Theirastra",
+			"Thiala",
+			"Tiaathque",
+			"Traulam",
+			"Vadania",
+			"Valanthe",
+			"Valna",
+			"Xanaphia"
+		],
+		"additive": []
+	},
+	{
+		"race": "Elf",
+		"gender": "Male",
+		"options": [
+			"Adran",
+			"Aelar",
+			"Aerdeth",
+			"Ahvain",
+			"Aramil",
+			"Arannis",
+			"Aust",
+			"Azaki",
+			"Beiro",
+			"Berrian",
+			"Caeldrim",
+			"Carric",
+			"Dayereth",
+			"Dreali",
+			"Efferil",
+			"Eiravel",
+			"Enialis",
+			"Erdan",
+			"Erevan",
+			"Fivin",
+			"Galinndan",
+			"Gennal",
+			"Hadarai",
+			"Halimath",
+			"Heian",
+			"Himo",
+			"Immeral",
+			"Ivellios",
+			"Korfel",
+			"Lamlis",
+			"Laucian",
+			"Lucan",
+			"Mindartis",
+			"Naal",
+			"Nutae",
+			"Paelias",
+			"Peren",
+			"Quarion",
+			"Riardon",
+			"Rolen",
+			"Soveliss",
+			"Suhnae",
+			"Thamior",
+			"Tharivol",
+			"Theren",
+			"Theriatis",
+			"Thervan",
+			"Uthemar",
+			"Vanuath",
+			"Varis"
+		],
+		"additive": []
+	},
+	{
+		"race": "Elf",
+		"gender": "Non-binary",
+		"options": [],
+		"additive": [
+			{
+				"race": "Elf",
+				"gender": "Male"
+			},
+			{
+				"race": "Elf",
+				"gender": "Female"
+			}
+		]
+	},
+	{
+		"race": "Gnome",
+		"gender": "Female",
+		"options": [
+			"Abalaba",
+			"Bimpnottin",
+			"Breena",
+			"Buvvie",
+			"Callybon",
+			"Caramip",
+			"Carlin",
+			"Cumpen",
+			"Dalaba",
+			"Donella",
+			"Duvamil",
+			"Ella",
+			"Ellyjoybell",
+			"Ellywick",
+			"Enidda",
+			"Lilli",
+			"Loopmottin",
+			"Lorilla",
+			"Luthra",
+			"Mardnab",
+			"Meena",
+			"Menny",
+			"Mumpena",
+			"Nissa",
+			"Numba",
+			"Nyx",
+			"Oda",
+			"Oppah",
+			"Orla",
+			"Panana",
+			"Pyntle",
+			"Quilla",
+			"Ranala",
+			"Reddlepop",
+			"Roywyn",
+			"Salanop",
+			"Shamil",
+			"Siffress",
+			"Symma",
+			"Tana",
+			"Tenena",
+			"Tervaround",
+			"Tippletoe",
+			"Ulla",
+			"Unvera",
+			"Veloptima",
+			"Virra",
+			"Waywocket",
+			"Yebe",
+			"Zanna"
+		],
+		"additive": []
+	},
+	{
+		"race": "Gnome",
+		"gender": "Male",
+		"options": [
+			"Alston",
+			"Alvyn",
+			"Anverth",
+			"Arumawann",
+			"Bilbron",
+			"Boddynock",
+			"Brocc",
+			"Burgell",
+			"Cockaby",
+			"Crampernap",
+			"Dabbledob",
+			"Delebean",
+			"Dimble",
+			"Eberdeb",
+			"Eldon",
+			"Erky",
+			"Fablen",
+			"Fibblestib",
+			"Fonkin",
+			"Frouse",
+			"Frug",
+			"Gerbo",
+			"Gimble",
+			"Glim",
+			"Igden",
+			"Jabble",
+			"Jebeddo",
+			"Kellen",
+			"Kipper",
+			"Namfoodle",
+			"Oppleby",
+			"Orryn",
+			"Paggen",
+			"Pallabar",
+			"Pog",
+			"Qualen",
+			"Ribbles",
+			"Rimple",
+			"Roondar",
+			"Sapply",
+			"Seebo",
+			"Senteq",
+			"Sindri",
+			"Umpen",
+			"Warryn",
+			"Wiggens",
+			"Wobbles",
+			"Wrenn",
+			"Zaffrab",
+			"Zook"
+		],
+		"additive": []
+	},
+	{
+		"race": "Gnome",
+		"gender": "Non-binary",
+		"options": [],
+		"additive": [
+			{
+				"race": "Gnome",
+				"gender": "Female"
+			},
+			{
+				"race": "Gnome",
+				"gender": "Male"
+			}
+		]
+	},
+	{
+		"race": "Goblin",
+		"gender": "Female",
+		"options": [],
+		"additive": [
+			{
+				"race": "Goblin",
+				"gender": "Non-binary"
+			}
+		]
+	},
+	{
+		"race": "Goblin",
+		"gender": "Male",
+		"options": [],
+		"additive": [
+			{
+				"race": "Goblin",
+				"gender": "Non-binary"
+			}
+		]
+	},
+	{
+		"race": "Goblin",
+		"gender": "Non-binary",
+		"options": [
+			"Azzinax",
+			"Babolax",
+			"Blixanix",
+			"Crixizix",
+			"Dazzaz",
+			"Estrix",
+			"Finizix",
+			"Juzba",
+			"Kaluzax",
+			"Lyzaxa",
+			"Mizzix",
+			"Myznar",
+			"Nixispix",
+			"Paxizaz",
+			"Ravixiz",
+			"Stixil",
+			"Sunnix",
+			"Tozinox",
+			"Uxivozi",
+			"Vazozav",
+			"Wexiny",
+			"Zizzix"
+		],
+		"additive": []
+	},
+	{
+		"race": "Half-Orc",
+		"gender": "Female",
+		"options": [
+			"Arha",
+			"Baggi",
+			"Bendoo",
+			"Bilga",
+			"Brakka",
+			"Creega",
+			"Drenna",
+			"Ekk",
+			"Emen",
+			"Engong",
+			"Fistula",
+			"Gaaki",
+			"Gorga",
+			"Grai",
+			"Greeba",
+			"Grigi",
+			"Gynk",
+			"Hrathy",
+			"Huru",
+			"Ilga",
+			"Kabbarg",
+			"Kansif",
+			"Lagazi",
+			"Lezre",
+			"Murgen",
+			"Murook",
+			"Myev",
+			"Nagrette",
+			"Neega",
+			"Nella",
+			"Nogu",
+			"Oolah",
+			"Ootah",
+			"Ovak",
+			"Ownka",
+			"Puyet",
+			"Reeza",
+			"Shautha",
+			"Silgre",
+			"Sutha",
+			"Tagga",
+			"Tawar",
+			"Tomph",
+			"Ubada",
+			"Vanchu",
+			"Vola",
+			"Volen",
+			"Vorka",
+			"Yevelda",
+			"Zagga"
+		],
+		"additive": []
+	},
+	{
+		"race": "Half-Orc",
+		"gender": "Male",
+		"options": [
+			"Argran",
+			"Braak",
+			"Brug",
+			"Cagak",
+			"Dench",
+			"Dorn",
+			"Dren",
+			"Druuk",
+			"Feng",
+			"Gell",
+			"Gnarsh",
+			"Grumbar",
+			"Gubrash",
+			"Hagren",
+			"Henk",
+			"Hogar",
+			"Holg",
+			"Imsh",
+			"Karash",
+			"Karg",
+			"Keth",
+			"Korag",
+			"Krusk",
+			"Lubash",
+			"Megged",
+			"Mhurren",
+			"Mord",
+			"Morg",
+			"Nil",
+			"Nybarg",
+			"Odorr",
+			"Ohr",
+			"Rendar",
+			"Resh",
+			"Ront",
+			"Rrath",
+			"Sark",
+			"Scrag",
+			"Sheggen",
+			"Shump",
+			"Tanglar",
+			"Tarak",
+			"Thar",
+			"Thokk",
+			"Trag",
+			"Ugarth",
+			"Varg",
+			"Vilberg",
+			"Yurk",
+			"Zed"
+		],
+		"additive": []
+	},
+	{
+		"race": "Half-Orc",
+		"gender": "Non-binary",
+		"options": [],
+		"additive": [
+			{
+				"race": "Half-Orc",
+				"gender": "Female"
+			},
+			{
+				"race": "Half-Orc",
+				"gender": "Male"
+			}
+		]
+	},
+	{
+		"race": "Half-Elf",
+		"gender": "Female",
+		"options": [],
+		"additive": [
+			{
+				"race": "Elf",
+				"gender": "Female"
+			},
+			{
+				"race": "Human",
+				"gender": "Female"
+			}
+		]
+	},
+	{
+		"race": "Half-Elf",
+		"gender": "Male",
+		"options": [],
+		"additive": [
+			{
+				"race": "Elf",
+				"gender": "Male"
+			},
+			{
+				"race": "Human",
+				"gender": "Male"
+			}
+		]
+	},
+	{
+		"race": "Half-Elf",
+		"gender": "Non-binary",
+		"options": [],
+		"additive": [
+			{
+				"race": "Half-Elf",
+				"gender": "Female"
+			},
+			{
+				"race": "Half-Elf",
+				"gender": "Male"
+			}
+		]
+	},
+	{
+		"race": "Halfling",
+		"gender": "Female",
+		"options": [
+			"Alain",
+			"Andry",
+			"Anne",
+			"Bella",
+			"Blossom",
+			"Bree",
+			"Callie",
+			"Chenna",
+			"Cora",
+			"Dee",
+			"Dell",
+			"Eida",
+			"Eran",
+			"Euphemia",
+			"Georgina",
+			"Gynnie",
+			"Harriet",
+			"Jasmine",
+			"Jillian",
+			"Jo",
+			"Kithri",
+			"Lavinia",
+			"Lidda",
+			"Maegan",
+			"Marigold",
+			"Merla",
+			"Myria",
+			"Nedda",
+			"Nikki",
+			"Nora",
+			"Olivia",
+			"Paela",
+			"Pearl",
+			"Pennie",
+			"Philomena",
+			"Portia",
+			"Robbie",
+			"Rose",
+			"Saral",
+			"Seraphina",
+			"Shaena",
+			"Stacee",
+			"Tawna",
+			"Thea",
+			"Trym",
+			"Tyna",
+			"Vani",
+			"Verna",
+			"Wella",
+			"Willow"
+		],
+		"additive": []
+	},
+	{
+		"race": "Halfling",
+		"gender": "Male",
+		"options": [
+			"Alton",
+			"Ander",
+			"Bernie",
+			"Bobbin",
+			"Cade",
+			"Callus",
+			"Corrin",
+			"Dannad",
+			"Danniel",
+			"Eddie",
+			"Egart",
+			"Eldon",
+			"Errich",
+			"Fildo",
+			"Finnan",
+			"Franklin",
+			"Garret",
+			"Garth",
+			"Gilbert",
+			"Gob",
+			"Harol",
+			"Igor",
+			"Jasper",
+			"Keith",
+			"Kevin",
+			"Lazam",
+			"Lerry",
+			"Lindal",
+			"Lyle",
+			"Merric",
+			"Mican",
+			"Milo",
+			"Morrin",
+			"Nebin",
+			"Nevil",
+			"Osborn",
+			"Ostran",
+			"Oswalt",
+			"Perrin",
+			"Poppy",
+			"Reed",
+			"Roscoe",
+			"Sam",
+			"Shardon",
+			"Tye",
+			"Ulmo",
+			"Wellby",
+			"Wendel",
+			"Wenner",
+			"Wes"
+		],
+		"additive": []
+	},
+	{
+		"race": "Halfling",
+		"gender": "Non-binary",
+		"options": [],
+		"additive": [
+			{
+				"race": "Halfling",
+				"gender": "Female"
+			},
+			{
+				"race": "Halfling",
+				"gender": "Male"
+			}
+		]
+	},
+	{
+		"race": "Human",
+		"gender": "Female",
+		"options": [
+			"Abigail",
+			"Alexandra",
+			"Allison",
+			"Amber",
+			"Amelia",
+			"Anna",
+			"Audrey",
+			"Ava",
+			"Brianna",
+			"Brooke",
+			"Camille",
+			"Caroline",
+			"Catherine",
+			"Charlotte",
+			"Chloe",
+			"Claire",
+			"Danielle",
+			"Elizabeth",
+			"Elena",
+			"Ellie",
+			"Emily",
+			"Emma",
+			"Erin",
+			"Evelyn",
+			"Faith",
+			"Gabrielle",
+			"Grace",
+			"Hannah",
+			"Harper",
+			"Hailey",
+			"Isabella",
+			"Jasmine",
+			"Jennifer",
+			"Jessica",
+			"Julia",
+			"Kayla",
+			"Lauren",
+			"Lily",
+			"Madeline",
+			"Madison",
+			"Megan",
+			"Melanie",
+			"Mia",
+			"Naomi",
+			"Natalie",
+			"Nicole",
+			"Olivia",
+			"Rachel",
+			"Rebecca",
+			"Rose",
+			"Samantha",
+			"Sophia",
+			"Victoria"
+		],
+		"additive": []
+	},
+	{
+		"race": "Human",
+		"gender": "Male",
+		"options": [
+			"Adam",
+			"Adrian",
+			"Alex",
+			"Andrew",
+			"Anthony",
+			"Benjamin",
+			"Brandon",
+			"Brian",
+			"Caleb",
+			"Charles",
+			"Christopher",
+			"Connor",
+			"Daniel",
+			"David",
+			"Dylan",
+			"Edward",
+			"Ethan",
+			" Evan",
+			"Gabriel",
+			"George",
+			"Henry",
+			"Isaac",
+			"Jack",
+			"Jacob",
+			"James",
+			"Jason",
+			"Jeremy",
+			"Jonathan",
+			"Jordan",
+			"Joseph",
+			"Joshua",
+			"Julian",
+			"Kevin",
+			"Lucas",
+			"Marcus",
+			"Matthew",
+			"Michael",
+			"Nathan",
+			"Nathaniel",
+			"Nicholas",
+			"Noah",
+			"Owen",
+			"Patrick",
+			"Peter",
+			"Ryan",
+			"Samuel",
+			"Scott",
+			"Thomas",
+			"Tyler",
+			"William",
+			"Zachary"
+		],
+		"additive": []
+	},
+	{
+		"race": "Human",
+		"gender": "Non-binary",
+		"options": [
+			"Alex",
+			"Avery",
+			"Bailey",
+			"Blake",
+			"Casey",
+			"Charlie",
+			"Cameron",
+			"Dakota",
+			"Drew",
+			"Emery",
+			"Finley",
+			"Harley",
+			"Hayden",
+			"Jamie",
+			"Jesse",
+			"Jordan",
+			"Kai",
+			"Morgan",
+			"Parker",
+			"Payton",
+			"Quinn",
+			"Reese",
+			"Riley",
+			"River",
+			"Robin",
+			"Sam",
+			"Sawyer",
+			"Taylor",
+			"Terry",
+			"Wren"
+		],
+		"additive": []
+	},
+	{
+		"race": "Tiefling",
+		"gender": "Female",
+		"options": [
+			"Akta",
+			"Anakis",
+			"Armara",
+			"Astaro",
+			"Aym",
+			"Azza",
+			"Beleth",
+			"Bryseis",
+			"Bune",
+			"Criella",
+			"Damaia",
+			"Decarabia",
+			"Ea",
+			"Gadreel",
+			"Gomory",
+			"Hecat",
+			"Ishte",
+			"Jezebeth",
+			"Kali",
+			"Kallista",
+			"Kasdeya",
+			"Lerissa",
+			"Lilith",
+			"Makaria",
+			"Manea",
+			"Markosian",
+			"Mastema",
+			"Naamah",
+			"Nemeia",
+			"Nija",
+			"Orianna",
+			"Osah",
+			"Phelaia",
+			"Prosperine",
+			"Purah",
+			"Pyra",
+			"Rieta",
+			"Ronobe",
+			"Ronwe",
+			"Seddit",
+			"Seere",
+			"Sekhmet",
+			"Semyaza",
+			"Shava",
+			"Shax",
+			"Sorath",
+			"Uzza",
+			"Vapula",
+			"Vepar",
+			"Verin"
+		],
+		"additive": [
+			{
+				"race": "Tiefling",
+				"gender": "Virtue"
+			}
+		]
+	},
+	{
+		"race": "Tiefling",
+		"gender": "Male",
+		"options": [
+			"Abad",
+			"Ahrim",
+			"Akmen",
+			"Amnon",
+			"Andram",
+			"Astar",
+			"Balam",
+			"Barakas",
+			"Bathin",
+			"Caim",
+			"Chem",
+			"Cimer",
+			"Cressel",
+			"Damakos",
+			"Ekemon",
+			"Euron",
+			"Fenriz",
+			"Forcas",
+			"Habor",
+			"Iados",
+			"Kairon",
+			"Leucis",
+			"Mamnen",
+			"Mantus",
+			"Marbas",
+			"Melech",
+			"Merihim",
+			"Modean",
+			"Mordai",
+			"Mormo",
+			"Morthos",
+			"Nicor",
+			"Nirgel",
+			"Oriax",
+			"Paymon",
+			"Pelaios",
+			"Purson",
+			"Qemuel",
+			"Raam",
+			"Rimmon",
+			"Sammal",
+			"Skamos",
+			"Tethren",
+			"Thamuz",
+			"Therai",
+			"Valafar",
+			"Vassago",
+			"Xappan",
+			"Zepar",
+			"Zephan"
+		],
+		"additive": [
+			{
+				"race": "Tiefling",
+				"gender": "Virtue"
+			}
+		]
+	},
+	{
+		"race": "Tiefling",
+		"gender": "Virtue",
+		"options": [
+			"Ambition",
+			"Art",
+			"Carrion",
+			"Chant",
+			"Creed",
+			"Death",
+			"Debauchery",
+			"Despair",
+			"Doom",
+			"Doubt",
+			"Dread",
+			"Ecstasy",
+			"Ennui",
+			"Entropy",
+			"Excellence",
+			"Fear",
+			"Glory",
+			"Gluttony",
+			"Grief",
+			"Hate",
+			"Hope",
+			"Horror",
+			"Ideal",
+			"Ignominy",
+			"Laughter",
+			"Love",
+			"Lust",
+			"Mayhem",
+			"Mockery",
+			"Murder",
+			"Muse",
+			"Music",
+			"Mystery",
+			"Nowhere",
+			"Open",
+			"Pain",
+			"Passion",
+			"Poetry",
+			"Quest",
+			"Random",
+			"Reverence",
+			"Revulsion",
+			"Sorrow",
+			"Temerity",
+			"Torment",
+			"Tragedy",
+			"Vice",
+			"Virtue",
+			"Weary",
+			"Wit"
+		]
+	},
+	{
+		"race": "Tiefling",
+		"gender": "Non-binary",
+		"options": [],
+		"additive": [
+			{
+				"race": "Tiefling",
+				"gender": "Female"
+			},
+			{
+				"race": "Tiefling",
+				"gender": "Male"
+			},
+			{
+				"race": "Tiefling",
+				"gender": "Virtue"
+			}
+		]
+	},
+	{
+		"race": "Warforged",
+		"gender": "Female",
+		"options": [],
+		"additive": [
+			{
+				"race": "Warforged",
+				"gender": "Non-binary"
+			}
+		]
+	},
+	{
+		"race": "Warforged",
+		"gender": "Male",
+		"options": [],
+		"additive": [
+			{
+				"race": "Warforged",
+				"gender": "Non-binary"
+			}
+		]
+	},
+	{
+		"race": "Warforged",
+		"gender": "Non-binary",
+		"options": [
+			"Anchor",
+			"Banner",
+			"Bastion",
+			"Blade",
+			"Blue",
+			"Bow",
+			"Cart",
+			"Church",
+			"Crunch",
+			"Crystal",
+			"Dagger",
+			"Dent",
+			"Five",
+			"Glaive",
+			"Hammer",
+			"Iron",
+			"Lucky",
+			"Mace",
+			"Oak",
+			"Onyx",
+			"Pants",
+			"Pierce",
+			"Red",
+			"Rod",
+			"Rusty",
+			"Scout",
+			"Seven",
+			"Shield",
+			"Slash",
+			"Smith",
+			"Spike",
+			"Temple",
+			"Vault",
+			"Wall"
+		],
+		"additive": []
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"option": "Unattractive",
+		"weight": 2
+	},
+	{
+		"option": "Plain",
+		"weight": 6
+	},
+	{
+		"option": "Attractive",
+		"weight": 6
+	},
+	{
+		"option": "Striking",
+		"weight": 2
+	}
+]

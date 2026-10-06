@@ -1,0 +1,112 @@
+{
+    "id": "npc",
+    "name": "NPCs",
+    "steps": [
+        {
+            "id": "race",
+            "name": "Race",
+            "type": "select",
+            "table": "race",
+            "depends_on": []
+        },
+        {
+            "id": "gender",
+            "name": "Gender",
+            "type": "select",
+            "table": "gender",
+            "depends_on": []
+        },
+        {
+            "id": "occupation",
+            "name": "Occupation",
+            "type": "select",
+            "table": "occupation",
+            "depends_on": []
+        },
+        {
+            "id": "attractiveness",
+            "name": "Attractiveness",
+            "type": "select",
+            "table": "attractiveness",
+            "depends_on": []
+        },
+        {
+            "id": "sexuality",
+            "name": "Sexuality",
+            "type": "select",
+            "table": "sexuality",
+            "depends_on": []
+        },
+        {
+            "id": "distinctive_feature",
+            "name": "Distinctive Feature",
+            "type": "select",
+            "table": "distinctive_feature",
+            "depends_on": []
+        },
+        {
+            "id": "name",
+            "name": "Name",
+            "type": "text",
+            "table": "name",
+            "depends_on": [
+                "race",
+                "gender"
+            ]
+        },
+        {
+            "id": "gender_presentation",
+            "name": "Gender Presentation",
+            "type": "select",
+            "table": "gender_presentation",
+            "depends_on": [
+                "gender"
+            ]
+        },
+        {
+            "id": "clothing",
+            "name": "Clothing",
+            "type": "select",
+            "table": "clothing",
+            "depends_on": [
+                "gender",
+                "occupation"
+            ]
+        },
+        {
+            "id": "appearance",
+            "name": "Appearance",
+            "type": "text",
+            "table": "appearance",
+            "depends_on": [
+                "race",
+                "gender",
+                "clothing",
+                "distinctive_feature"
+            ]
+        },
+        {
+            "id": "secret",
+            "name": "Secret",
+            "type": "text",
+            "table": "secret",
+            "depends_on": [
+                "occupation",
+                "gender",
+                "sexuality"
+            ]
+        },
+        {
+            "id": "motivation",
+            "name": "Motivation",
+            "type": "text",
+            "table": "motivation",
+            "depends_on": [
+                "occupation",
+                "gender",
+                "sexuality",
+                "secret"
+            ]
+        }
+    ]
+}

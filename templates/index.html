@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>Thingificator</title>
+
+	<script src="https://cdn.tailwindcss.com"></script>
+
+	<link
+		rel="stylesheet"
+		href="{{ url_for('static', filename='css/app.css') }}"
+	>
+</head>
+
+<body>
+	<div id="app" class="h-screen w-screen overflow-hidden"></div>
+
+	<script
+		type="module"
+		src="{{ url_for('static', filename='js/app.js') }}"
+	></script>
+</body>
+</html>

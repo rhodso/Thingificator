@@ -1,0 +1,15 @@
+[
+    {
+        "option": "Male",
+        "weight": 5
+    },
+    {
+        "option": "Female",
+        "weight": 10
+    },
+    {
+        "option": "Non-binary",
+        "weight": 1
+    }
+]
+

@@ -1,0 +1,32 @@
+{
+	"id": "quick_npc",
+	"name": "Quick NPC",
+	"steps": [
+		{
+			"id": "race",
+			"name": "Race",
+			"type": "select",
+			"table": "race",
+			"depends_on": []
+		},
+        {
+            "id": "gender",
+            "name": "Gender",
+            "type": "select",
+            "table": "gender",
+            "depends_on": []
+        },
+        {
+            "id": "name",
+            "name": "Name",
+            "type": "text",
+            "table": "name",
+            "generation": "additive",
+            "depends_on": [
+                "race",
+                "gender"
+            ]
+        }
+	]
+}
+

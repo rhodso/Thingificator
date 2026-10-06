@@ -1,0 +1,18 @@
+[
+	{
+		"option": "Heterosexual",
+		"weight": 10
+	},
+	{
+		"option": "Bisexual",
+		"weight": 3
+	},
+	{
+		"option": "Homosexual",
+		"weight": 2
+	},
+	{
+		"option": "Asexual",
+		"weight": 1
+	}
+]

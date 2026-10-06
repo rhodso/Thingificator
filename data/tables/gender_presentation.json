@@ -1,0 +1,45 @@
+{
+    "Male": [
+        {
+            "option": "Androgynous",
+            "weight": 1
+        },
+        {
+            "option": "Masc",
+            "weight": 10
+        },
+        {
+            "option": "Femme",
+            "weight": 3
+        }
+    ],
+    "Female": [
+        {
+            "option": "Androgynous",
+            "weight": 1
+        },
+        {
+            "option": "Masc",
+            "weight": 3
+        },
+        {
+            "option": "Femme",
+            "weight": 10
+        }
+    ],
+    "Non-binary": [
+        {
+            "option": "Androgynous",
+            "weight": 1
+        },
+        {
+            "option": "Masc",
+            "weight": 1
+        },
+        {
+            "option": "Femme",
+            "weight": 1
+        }
+    ]
+}
+

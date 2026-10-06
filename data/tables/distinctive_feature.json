@@ -1,0 +1,34 @@
+[
+	{
+		"option": "A noticeable scar",
+		"weight": 3
+	},
+	{
+		"option": "Unusually bright eyes",
+		"weight": 2
+	},
+	{
+		"option": "A distinctive hairstyle",
+		"weight": 3
+	},
+	{
+		"option": "A missing tooth",
+		"weight": 2
+	},
+	{
+		"option": "A tattoo",
+		"weight": 2
+	},
+	{
+		"option": "A birthmark",
+		"weight": 2
+	},
+	{
+		"option": "A nervous habit",
+		"weight": 2
+	},
+	{
+		"option": "An unusual accent",
+		"weight": 2
+	}
+]

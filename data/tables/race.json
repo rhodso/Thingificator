@@ -1,0 +1,50 @@
+[
+	{
+		"option": "Lizardfolk",
+		"weight": 1
+	},
+	{
+		"option": "Githyanki",
+		"weight": 1
+	},
+	{
+		"option": "Githzerai",
+		"weight": 1
+	},
+	{
+		"option": "Dragonborn",
+		"weight": 1
+	},
+	{
+		"option": "Dwarf",
+		"weight": 5
+	},
+	{
+		"option": "Elf",
+		"weight": 10
+	},
+	{
+		"option": "Gnome",
+		"weight": 5
+	},
+	{
+		"option": "Half-Orc",
+		"weight": 4
+	},
+	{
+		"option": "Half-Elf",
+		"weight": 10
+	},
+	{
+		"option": "Halfling",
+		"weight": 5
+	},
+	{
+		"option": "Human",
+		"weight": 20
+	},
+	{
+		"option": "Tiefling",
+		"weight": 15
+	}
+]
